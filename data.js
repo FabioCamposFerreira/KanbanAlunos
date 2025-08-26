@@ -1,34 +1,30 @@
 // Banco de dados das tarefas dos alunos
 const alunos = [
     {
-        nome: "Rafael",
+        nome: "Carlos",
         tarefas: [
-            { titulo: "Create wireframes", descricao: "Wireframes da nova landing page", status: "finalizado", pontos: 3 },
-            { titulo: "Create wireframes", descricao: "Wireframes da dashboard", status: "pendente", pontos: 1 },
-            { titulo: "Create wireframes", descricao: "Wireframes do app mobile", status: "finalizado", pontos: 1 },
-            { titulo: "Create wireframes", descricao: "Wireframes do sistema de login", status: "pendente", pontos: 1 },
-            { titulo: "Create wireframes", descricao: "Wireframes das configurações", status: "finalizado", pontos: 5 }
+            { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
+            
+            
         ]
     },
     {
-        nome: "Sofia",
+        nome: "Felipe",
         tarefas: [
-            { titulo: "Create wireframes", descricao: "Wireframes mobile responsivo", status: "finalizado", pontos: 3 },
-            { titulo: "Create wireframes", descricao: "Wireframes da área administrativa", status: "finalizado", pontos: 3 }
+            { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
         ]
     },
     {
-        nome: "Ricardoo",
+        nome: "Eduardo",
         tarefas: [
-            { titulo: "Create wireframes", descricao: "Wireframes do e-commerce", status: "finalizado", pontos: 3 }
+            { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
         ]
     }
     ,
     {
-        nome: "Stefane",
+        nome: "Vitor",
         tarefas: [
-            { titulo: "Create wireframes", descricao: "Wireframes do e-commerce", status: "finalizado", pontos: 3 },
-            { titulo: "Create wireframes", descricao: "Wireframes do e-commerce", status: "finalizado", pontos: 10 }
+            { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
         ]
     }
 ];
