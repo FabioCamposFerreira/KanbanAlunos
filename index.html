@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban de Tarefas dos Alunos</title>
+    <meta name="description" content="Sistema Kanban para controle de tarefas de alunos">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Kanban de Tarefas dos Alunos</h1>
+            <p>Gerencie as tarefas e acompanhe o progresso dos estudantes</p>
+        </header>
+
+        <main class="kanban-board" id="kanbanBoard">
+            <!-- Colunas dos alunos serão inseridas aqui pelo JavaScript -->
+        </main>
+    </div>
+
+    <!-- Modal para detalhes da tarefa -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <button class="modal-close" id="modalClose">&times;</button>
+            </div>
+            <div class="modal-content">
+                <div class="modal-field">
+                    <h4>Descrição</h4>
+                    <p id="modalDescription"></p>
+                </div>
+                <div class="modal-footer">
+                    <div class="modal-status">
+                        <h4>Status</h4>
+                        <span class="status-badge" id="modalStatus"></span>
+                    </div>
+                    <div class="modal-points">
+                        <h4>Pontuação</h4>
+                        <div class="points-circle" id="modalPoints"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
