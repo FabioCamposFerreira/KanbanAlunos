@@ -3,6 +3,8 @@ const alunos = [
     {
         nome: "Carlos",
         tarefas: [
+            { titulo: "Site portfólio no GitHub", descricao: "", status: "pendente", pontos: 2 },
+             { titulo: "Video: Portifolio", descricao: "https://www.youtube.com/watch?v=Vr3hWm7My24", status: "finalizado", pontos: 2 },
             { titulo: "Dailly 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
         ]
