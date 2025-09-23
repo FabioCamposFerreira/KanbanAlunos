@@ -46,6 +46,7 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
+            { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "FeedBack 02/09/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -63,11 +64,13 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
+            { titulo: "Portfólio CSS", descricao: "", status: "finalizado", pontos: 10 },
+            { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "FeedBack 02/09/25", descricao: "", status: "finalizado", pontos: 1 },
-            { titulo: "Site portfólio no GitHub", descricao: "", status: "pendente", pontos: 2 },
+            { titulo: "Site portfólio no GitHub", descricao: "", status: "finalizado", pontos: 2 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 02/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video: Portifolio", descricao: "https://www.youtube.com/watch?v=Vr3hWm7My24", status: "finalizado", pontos: 2 },
@@ -81,6 +84,7 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
