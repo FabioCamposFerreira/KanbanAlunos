@@ -3,6 +3,7 @@ const alunos = [
     {
         nome: "Carlos",
         tarefas: [
+            { titulo: "Dailly 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Site portfólio no GitHub", descricao: "", status: "pendente", pontos: 2 },
              { titulo: "Video: Portifolio", descricao: "https://www.youtube.com/watch?v=Vr3hWm7My24", status: "finalizado", pontos: 2 },
@@ -13,6 +14,7 @@ const alunos = [
     {
         nome: "Felipe",
         tarefas: [
+            { titulo: "Dailly 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
@@ -64,6 +66,7 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
+            { titulo: "Dailly 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Portfólio CSS", descricao: "", status: "finalizado", pontos: 10 },
             { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -84,6 +87,7 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Dailly 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
