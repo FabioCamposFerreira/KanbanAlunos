@@ -96,9 +96,10 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Dailly 30/09/25", descricao: "", status: "finalizado", pontos: 1 },
-            { titulo: "Site portfólio CSS", descricao: "", status: "pendente", pontos: 10 },
+            { titulo: "Site portfólio CSS", descricao: "", status: "finalizado", pontos: 10 },
             { titulo: "Dailly 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 23/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "finalizado", pontos: 1 },
