@@ -3,6 +3,7 @@ const alunos = [
     {
         nome: "Carlos",
         tarefas: [
+            { titulo: "Prova 1", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
              { titulo: "Portfólio FeedBack", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Portfólio CSS", descricao: "", status: "finalizado", pontos: 10 },
@@ -56,6 +57,7 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
+            { titulo: "Prova 1", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "FeedBack 09/09/25", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "FeedBack 30/09/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -76,6 +78,7 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
+            { titulo: "Prova 1", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Portfólio FeedBack", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Video JSON", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 30/09/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -101,6 +104,7 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Prova 1", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "FeedBack 30/09/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack portfólio CSS", descricao: "", status: "pendente", pontos: 10 },
