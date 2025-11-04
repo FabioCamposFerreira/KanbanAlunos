@@ -3,10 +3,11 @@ const alunos = [
     {
         nome: "Carlos",
         tarefas: [
-            { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "finalizado", pontos: 5 },
+        {titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "pendente", pontos: 3 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
+            { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "finalizado", pontos: 5 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 21/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 07/10/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -179,7 +180,8 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
-            { titulo: "Vídeo HTML & CSS", descricao: "https://youtu.be/n_Etdr7Dbjs?si=cMatCETdG0apb_sR", status: "pendente", pontos: 2 },
+             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
+            { titulo: "Vídeo HTML & CSS", descricao: "https://youtu.be/n_Etdr7Dbjs?si=cMatCETdG0apb_sR", status: "finalizado", pontos: 2 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 21/10/25", descricao: "", status: "finalizado", pontos: 1 },
