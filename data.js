@@ -145,10 +145,10 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
-            { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "pendente", pontos: 3 },
-            { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
-            { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "finalizado", pontos: 3 },
+            { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "finalizado", pontos: 1 },
+            { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
+            { titulo: "Video JSON", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
