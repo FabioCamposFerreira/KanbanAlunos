@@ -78,7 +78,7 @@ const alunos = [
         tarefas: [
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "pendente", pontos: 3 },
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
-            { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Portfólio CSS", descricao: "", status: "finalizado", pontos: 10 },
@@ -149,6 +149,7 @@ const alunos = [
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 21/10/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -182,8 +183,9 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
-             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
+            { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Vídeo HTML & CSS", descricao: "https://youtu.be/n_Etdr7Dbjs?si=cMatCETdG0apb_sR", status: "finalizado", pontos: 2 },
+            { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 21/10/25", descricao: "", status: "finalizado", pontos: 1 },
