@@ -5,6 +5,7 @@ const alunos = [
         tarefas: [
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
+            { titulo: "FeedBack 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video JSON", descricao: "", status: "finalizado", pontos: 1 },
             {titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "finalizado", pontos: 3 },
             { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "finalizado", pontos: 5 },
@@ -30,6 +31,9 @@ const alunos = [
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Site portfólio no GitHub", descricao: "", status: "pendente", pontos: 2 },
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "FeedBack 11/11/25", descricao: "Código muito avançado leitura do JSON banco de dados", status: "finalizado", pontos: 1 },
+            { titulo: "FeedBack 04/11/25", descricao: "Ter menos coisas para se fazer para finalizar a tempo", status: "finalizado", pontos: 1 },
+            { titulo: "FeedBack 28/10/25", descricao: "planejar a aula com mapas mentais da estrutura do projeto", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -57,6 +61,7 @@ const alunos = [
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Site portfólio no GitHub", descricao: "", status: "pendente", pontos: 2 },
+            { titulo: "FeedBack 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 21/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 21/10/25", descricao: "Respostas Genericas", status: "finalizado", pontos: 1 },
@@ -112,6 +117,7 @@ const alunos = [
         tarefas: [
             { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "pendente", pontos: 5 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "FeedBack 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "finalizado", pontos: 3 },
             { titulo: "Dailly 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -145,6 +151,14 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Projeto Hamburgueria GitHub e Portfolio", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Hamburgueria FeedBack", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Hamburgueria CSS", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Hamburgueria JS", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Hamburgueria HTML", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "FeedBack 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "FeedBack 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "FeedBack 28/10/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "finalizado", pontos: 3 },
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
@@ -183,6 +197,8 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
+            { titulo: "FeedBack 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "FeedBack 04/11/25", descricao: "Fazer commits e criar repositórios no GitHub", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Vídeo HTML & CSS", descricao: "https://youtu.be/n_Etdr7Dbjs?si=cMatCETdG0apb_sR", status: "finalizado", pontos: 2 },
             { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
