@@ -33,6 +33,7 @@ const alunos = [
             { titulo: "Video JSON", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
             { titulo: "Portfólio CSS", descricao: "", status: "pendente", pontos: 10 },
+            { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Site portfólio no GitHub", descricao: "", status: "finalizado", pontos: 2 },
@@ -88,10 +89,11 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
-            { titulo: "Dailly 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "pendente", pontos: 3 },
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 11/11/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -128,11 +130,11 @@ const alunos = [
             { titulo: "Projeto Hamburgueria FeedBack", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria CSS", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria JS", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Hamburgueria HTML", descricao: "", status: "finalizado", pontos: 3 },
-            
             { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "pendente", pontos: 5 },
             { titulo: "Projeto Site de noticas usando JSON", descricao: "", status: "pendente", pontos: 3 },
-            |{ titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 25/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 04/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "finalizado", pontos: 3 },
@@ -173,6 +175,7 @@ const alunos = [
             { titulo: "Projeto Hamburgueria CSS", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria JS", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria HTML", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 25/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -217,6 +220,7 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
+            { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 25/11/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "FeedBack 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
