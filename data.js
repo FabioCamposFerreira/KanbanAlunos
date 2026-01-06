@@ -129,11 +129,13 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
-            { titulo: "Projeto Hamburgueria GitHub e Portfolio", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Projeto Hamburgueria FeedBack", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Projeto Hamburgueria CSS", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Projeto Hamburgueria JS", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Dailly 16/12/25", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Video abela dinâmica", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Site de Noticias FeedBack", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Site de Noticias GitHub e Portfolio", descricao: "", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Site de Noticias CSS", descricao: "melhorar, em casa", status: "pendente", pontos: 3 },
+            { titulo: "Projeto Site de Noticias JS", descricao: "logout,login, adicionar comentarios em cada noticia", status: "pendente", pontos: 3 },
+            { titulo: "Dailly 16/12/25", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 06/01/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Projeto Hamburgueria HTML", descricao: "", status: "finalizado", pontos: 3 },
             { titulo: "Vídeo API Tempo", descricao: "https://www.youtube.com/watch?v=qxzqEuAOYZ4&t=56s", status: "pendente", pontos: 5 },
@@ -225,6 +227,10 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
+            { titulo: "Replica do Site BBC", descricao: "", status: "pendente", pontos: 5 },
+            { titulo: "Video Display Flex CSS", descricao: "", status: "pendente", pontos: 2 },
+            { titulo: "Video Display CSS", descricao: "", status: "pendente", pontos: 2 },
+            { titulo: "Video Display CSS", descricao: "", status: "pendente", pontos: 2 },
             { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 25/11/25", descricao: "", status: "finalizado", pontos: 1 },
