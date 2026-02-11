@@ -4,6 +4,7 @@ const alunos = [
         nome: "Carlos",
         tarefas: [
             { titulo: "Video: Curriculo", descricao: "https://www.youtube.com/watch?v=q652jp6YVqk&pp=ygUNY3VycmljdWxvIGRldg%3D%3D", status: "pendente", pontos: 1 },
+            { titulo: "Dailly 10/02/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 27/01/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 16/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 13/12/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -94,10 +95,13 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
+            { titulo: "Lista De Exercicios Python para 10/03/2026", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Video XML", descricao: "https://www.youtube.com/watch?v=qSfoczpQifc", status: "pendente", pontos: 3, dataentrega:'02/02/2026' },
             { titulo: "Video JSON", descricao: "https://www.youtube.com/watch?v=BWPUSXzSWA8", status: "pendente", pontos: 1 },
             { titulo: "Feedback sobre o portfólio", descricao: "", status: "pendente", pontos: 1 },
-            { titulo: "Dailly 16/12/25", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Dailly 10/02/26", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 03/02/26", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 16/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 27/01/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 18/11/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -133,11 +137,13 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
+            { titulo: "Lista De Exercicios Python para 10/03/2026", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Video abela dinâmica", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Site de Noticias FeedBack", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Site de Noticias GitHub e Portfolio", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Site de Noticias CSS", descricao: "melhorar, em casa", status: "pendente", pontos: 3 },
             { titulo: "Projeto Site de Noticias JS", descricao: "logout,login, adicionar comentarios em cada noticia", status: "pendente", pontos: 3 },
+            { titulo: "Dailly 10/02/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 27/01/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 20/01/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 13/12/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -183,12 +189,15 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Lista De Exercicios Python para 10/03/2026", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Projeto Hamburgueria GitHub e Portfolio", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria FeedBack", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria CSS", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria JS", descricao: "", status: "pendente", pontos: 3 },
             { titulo: "Projeto Hamburgueria HTML", descricao: "", status: "pendente", pontos: 3 },
-            { titulo: "Dailly 16/12/25", descricao: "", status: "pendente", pontos: 1 },
+            { titulo: "Dailly 10/02/26", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 03/02/26", descricao: "", status: "finalizado", pontos: 1 },
+            { titulo: "Dailly 16/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 27/01/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 13/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
@@ -236,10 +245,12 @@ const alunos = [
     {
         nome: "Natan",
         tarefas: [
+            { titulo: "Lista De Exercicios Python para 10/03/2026", descricao: "", status: "finalizado", pontos: 5 },
             { titulo: "Replica do Site BBC", descricao: "", status: "pendente", pontos: 5 },
             { titulo: "Video Display Flex CSS", descricao: "", status: "pendente", pontos: 2 },
             { titulo: "Video Display CSS", descricao: "", status: "pendente", pontos: 2 },
             { titulo: "Video Display CSS", descricao: "", status: "pendente", pontos: 2 },
+            { titulo: "Dailly 10/02/26", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 20/01/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 09/12/25", descricao: "", status: "finalizado", pontos: 1 },
             { titulo: "Dailly 02/12/25", descricao: "", status: "finalizado", pontos: 1 },
