@@ -104,7 +104,7 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
-            
+            { titulo: "Dailly 14/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 31/03/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 24/03/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Lista De Exercicios Python para 10/03/2026", descricao: "", status: "finalizado", pontos: 5 },
@@ -152,6 +152,7 @@ const alunos = [
     {
         nome: "Arthur",
         tarefas: [
+            { titulo: "Dailly 14/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Exercicios python inserir no banco de dados", descricao: "", status: "finalizado", pontos: 5 }, 
             { titulo: "Dailly 07/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 31/03/26", descricao: "", status: "finalizado", pontos: 1 },            
@@ -212,6 +213,7 @@ const alunos = [
     {
         nome: "Luis",
         tarefas: [
+            { titulo: "Dailly 14/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 07/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 31/03/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 24/03/26", descricao: "", status: "finalizado", pontos: 1 },            
@@ -307,6 +309,8 @@ const alunos = [
     {
         nome: "Gabriel",
         tarefas: [
+            { titulo: "Dailly 14/04/26", descricao: "", status: "finalizado", pontos: 1 },            
+            { titulo: "Dailly 07/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Página HTML video", descricao: "", status: "Pendente", pontos: 5 }, 
             { titulo: "Dailly 07/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 31/03/26", descricao: "", status: "finalizado", pontos: 1 }            
