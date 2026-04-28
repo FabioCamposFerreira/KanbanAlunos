@@ -104,6 +104,7 @@ const alunos = [
     {
         nome: "Vitor",
         tarefas: [
+            { titulo: "Dailly 28/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 14/04/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 31/03/26", descricao: "", status: "finalizado", pontos: 1 },            
             { titulo: "Dailly 24/03/26", descricao: "", status: "finalizado", pontos: 1 },            
